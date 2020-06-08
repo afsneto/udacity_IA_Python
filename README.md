@@ -1,5 +1,4 @@
-Data Scientist Nanodegree
-Deep Learning
+# AI Programming with Python Nanodegree
 
 • Challenge: Udacity Data Scientist Nanodegree project for deep learning module titled as 'Image Classifier with Deep Learning' attempts to train an image classifier to recognize different species of flowers. We can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice we had to train this classifier, then export it for use in our application. We had used a dataset (http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories.
 
@@ -12,4 +11,4 @@ This project uses the following software and Python libraries:
 NumPy, pandas, Sklearn / scikit-learn, Matplotlib (for data visualization), Seaborn (for data visualization)
 Code File
 
-Open file jupyter notebook imageclassifierproject.ipynb
+Open file jupyter notebook Image Classifier Project.ipynb
